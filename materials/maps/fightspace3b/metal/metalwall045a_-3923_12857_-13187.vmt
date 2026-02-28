@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL045A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/fightspace3b/c-3923_12857_-13187"
+	}
+}

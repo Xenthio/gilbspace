@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/fightspace3b/nature/water_canals03_13736_-10183_-13144.vmt"
+	"insert"
+	{
+		"$waterdepth"		"346"
+	}
+}

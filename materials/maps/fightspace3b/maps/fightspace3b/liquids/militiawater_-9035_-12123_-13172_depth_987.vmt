@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/fightspace3b/liquids/militiawater_-9035_-12123_-13172.vmt"
+	"insert"
+	{
+		"$waterdepth"		"987"
+	}
+}

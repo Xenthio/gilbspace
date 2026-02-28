@@ -1,0 +1,37 @@
+UnLitGeneric
+
+{
+
+	"$basetexture"	"kevin/river01"	// Texture (.vtf) that this material uses
+
+	"$translucent"	"1"		// Material should be rendered as translucent
+
+	"$nocull"	"1"		// Material should be rendered when viewed from either side
+
+	"$surfaceprop" 	"water"		// Type of surface; determines bullet impacts etc...
+
+	"$decal" 	"1"		// This is a decal / overlay
+
+
+
+	"Proxies"
+
+	{
+
+                // Texture scrolls over time
+
+		"TextureScroll"
+
+		{
+
+			"texturescrollvar" 	"$baseTextureTransform"
+
+			"texturescrollrate" 	".15"		// Speed of scrolling
+
+			"texturescrollangle" 	"270.00"	// Direction of scrolling
+
+		}
+
+	}
+
+}

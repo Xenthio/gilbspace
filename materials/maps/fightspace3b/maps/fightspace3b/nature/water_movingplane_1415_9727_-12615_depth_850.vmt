@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/fightspace3b/nature/water_movingplane_1415_9727_-12615.vmt"
+	"insert"
+	{
+		"$waterdepth"		"850"
+	}
+}

@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+"$basetexture" "kevin/gn"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "0.010"
+}
+}
+"$surfaceprop" "metal"
+"$frame" "2"
+}

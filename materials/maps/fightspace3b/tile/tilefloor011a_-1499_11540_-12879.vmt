@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEFLOOR011A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/fightspace3b/c-1499_11540_-12879"
+	}
+}

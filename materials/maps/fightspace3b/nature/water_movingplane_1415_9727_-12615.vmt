@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_MOVINGPLANE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/fightspace3b/c1415_9727_-12615"
+		"Proxies"
+		{
+		}
+	}
+}

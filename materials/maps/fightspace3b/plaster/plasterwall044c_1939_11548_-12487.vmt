@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL044C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/fightspace3b/c1939_11548_-12487"
+	}
+}

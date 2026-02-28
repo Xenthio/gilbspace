@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/COMBINEGLASS001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/fightspace3b/c-830_12921_-13080"
+	}
+}

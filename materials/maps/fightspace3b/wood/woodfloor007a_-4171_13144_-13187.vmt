@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODFLOOR007A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/fightspace3b/c-4171_13144_-13187"
+	}
+}

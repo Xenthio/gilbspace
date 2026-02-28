@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/fightspace3b/c13736_-10183_-13144"
+		"Proxies"
+		{
+		}
+	}
+}

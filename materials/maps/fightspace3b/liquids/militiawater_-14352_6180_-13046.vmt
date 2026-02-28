@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/LIQUIDS/MILITIAWATER.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/fightspace3b/c-14352_6180_-13046"
+		"Proxies"
+		{
+		}
+	}
+}

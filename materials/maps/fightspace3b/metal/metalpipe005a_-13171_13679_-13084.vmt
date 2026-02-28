@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALPIPE005A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/fightspace3b/c-13171_13679_-13084"
+	}
+}

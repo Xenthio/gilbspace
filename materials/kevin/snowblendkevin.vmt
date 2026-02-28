@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture2" "nature/snowfloor002a"
+	"$basetexture" "nature/sandfloor009b"
+	
+	//"$bumpmap" "gm_construct/grassnormal"
+	
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "snow"
+	
+}

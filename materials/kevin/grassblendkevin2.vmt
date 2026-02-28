@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$basetexture2" "gm_construct/grass2"
+	"$basetexture" "gm_construct/grass1"
+	
+	//"$bumpmap" "gm_construct/grassnormal"
+	
+	"$surfaceprop" "grass"
+	"$surfaceprop2" "grass"
+	
+	// If there was a detailtransform, we could probably scroll the clouds
+	
+	"$detail" "gm_construct/grass_clouds"
+	"$detailscale" "0.03"
+	"%detailtype" "grass_1"
+	
+}
