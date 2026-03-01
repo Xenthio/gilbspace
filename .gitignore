@@ -1,3 +1,6 @@
 maps/gilbspace3b_d.log
 maps/gilbspace3b_d.prt
 maps/gilbspace3b_d.vmx
+*.log
+*.prt
+*.vmx
